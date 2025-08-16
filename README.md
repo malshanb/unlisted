@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="2_objects.svg" alt="TEST SVG" width="auto">
+  <img src="2_objects.svg" alt="TEST SVG" style="max-width: 80%; height: auto;">
 </div>
 
 # Table of content
