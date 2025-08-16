@@ -1,4 +1,6 @@
-![TEST](2_objects.svg)
+<div align="center">
+  <img src="2_objects.svg" alt="TEST SVG">
+</div>
 
 # Table of content
 
